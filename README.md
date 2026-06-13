@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ankit Pathak
 
-<!--
-**AnkitPathak2/AnkitPathak2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with skills in SQL, Power BI, Excel, and Python.
 
-Here are some ideas to get you started:
+## Skills
+- SQL
+- Power BI
+- Excel
+- Python
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Sales Performance Dashboard (Power BI)
+- SQL Data Analysis
+- Excel Dashboard
+
+## Connect
+LinkedIn: https://www.linkedin.com/in/ankit-pathak22
+Email: ankitpathak221002@gmail.com
