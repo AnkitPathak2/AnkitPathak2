@@ -30,6 +30,7 @@ Passionate about transforming raw data into meaningful insights and building int
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
 
 ### Databases
 - MySQL
